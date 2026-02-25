@@ -1,15 +1,3 @@
-
-# Kai Lauterbach
-
-## Principal Security Architect  
-Platform Security · Secure Development · Organizational Enablement
-
----
-
-Designing secure systems. Enabling secure organizations.
-
----
-
 # Kai Lauterbach
 
 ## Principal Security Architect  
@@ -58,28 +46,4 @@ Strategic use of generative AI to enhance architectural evaluation, documentatio
 
 Email: [lauterbach.kai@web.de](mailto:lauterbach.kai@web.de)
 LinkedIn: [linkedin.com/in/kai-lauterbach-b87833379](https://www.linkedin.com/in/kai-lauterbach-b87833379/)
-
----
-
-## Expertise
-
-### Security Architecture & Governance  
-Platform security strategies and regulatory integration in complex development environments.
-
-### Secure Development Transformation  
-Enabling engineering teams to embed security-by-design principles into their workflows and architectures.
-
-### Platform & Embedded Security  
-Secure boot, key management, hardware security modules, OTA security architectures.
-
-### AI-Assisted Engineering  
-Strategic use of generative AI to enhance architectural evaluation, documentation, and secure system analysis.
-
----
-
-## Contact
-
-Email: [lauterbach.kai@web.de](mailto:lauterbach.kai@web.de)  
-LinkedIn: [linkedin.com/in/kai-lauterbach-b87833379](https://www.linkedin.com/in/kai-lauterbach-b87833379/)
-
 
