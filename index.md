@@ -44,6 +44,6 @@ Strategic use of generative AI to enhance architectural evaluation, documentatio
 
 ## Contact
 
-Email: [lauterbach.kai@web.de](mailto:lauterbach.kai@web.de)
+Email: [lauterbach.kai@web.de](mailto:lauterbach.kai@web.de)  
 LinkedIn: [linkedin.com/in/kai-lauterbach-b87833379](https://www.linkedin.com/in/kai-lauterbach-b87833379/)
 
